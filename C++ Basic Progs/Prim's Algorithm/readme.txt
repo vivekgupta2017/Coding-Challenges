@@ -1,0 +1,1 @@
+Program to input a graph from the user and display the Minimum Spanning Tree using Prim's Algorithm.
